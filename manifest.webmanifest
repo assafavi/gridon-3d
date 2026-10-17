@@ -1,0 +1,32 @@
+{
+  "name": "GRIDON 3D Football",
+  "short_name": "GRIDON 3D",
+  "description": "A mobile 3D American football game.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#06111e",
+  "theme_color": "#06111e",
+  "icons": [
+    {
+      "src": "icon-192.png?v=3",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png?v=3",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png?v=3",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

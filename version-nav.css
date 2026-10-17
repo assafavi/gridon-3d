@@ -1,0 +1,2 @@
+.versionLauncherBack{position:absolute;z-index:50;top:max(10px,env(safe-area-inset-top));left:max(10px,env(safe-area-inset-left));padding:9px 12px;border:1px solid #ffffff55;border-radius:10px;background:#061523dd;color:#fff;text-decoration:none;font:900 11px system-ui;letter-spacing:.5px;box-shadow:0 4px 15px #0008;touch-action:manipulation}
+.versionLauncherBack:active{background:#174a6b}
